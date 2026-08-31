@@ -8,56 +8,37 @@
 
 </div>
 
-<table>
-<tr>
-<td valign="top" width="34%">
-
-### Shipping
-
-<!-- projects starts -->
-[**Filmflix**](https://github.com/malikanubhav/Filmflix) — `JavaScript`<br>
-Movies and Shows streaming web application
-
-[**rishikeshin**](https://github.com/malikanubhav/rishikeshin) — `TypeScript`<br>
-Everything you need to know about Rishikesh
-
-[**devTinder**](https://github.com/malikanubhav/devTinder) + [**web**](https://github.com/malikanubhav/devTinder-web) — `JavaScript`
-
-[**medium-blog**](https://github.com/malikanubhav/medium-blog) — `TypeScript`
-<!-- projects ends -->
-
-</td>
-<td valign="top" width="33%">
-
-### Working in
-
-`.js` `.ts` `.jsx` `.html` `.css` `.sh`
-
-19 own repos, 2 forks.<br>
-JavaScript 8 · HTML 4 · TypeScript 2 · Shell 1
-
-First push `2022-12-31`.
-
-</td>
-<td valign="top" width="33%">
-
-### Reach me
-
-[linkedin.com/in/anubhav010](https://www.linkedin.com/in/anubhav010)
-
-`ping` me about **JavaScript**, **TypeScript**, **React**, or anything in the list to the left.
-
-</td>
-</tr>
-</table>
-
 ```
-anubhav@matrix:~$ cat TODO.txt
+anubhav@matrix:~$ ls -la ~/projects
 
-  # placeholders — replace with your own words
-  BIO   <one line: what you build, for whom>
-  NOW   <what you are building this month>
-  WANT  <what you want to be contacted about>
+  drwxr-xr-x  Filmflix        JavaScript  Movies and Shows streaming web application
+  drwxr-xr-x  rishikeshin     TypeScript  Everything you need to know about Rishikesh
+  drwxr-xr-x  devTinder       JavaScript  —
+  drwxr-xr-x  devTinder-web   JavaScript  —
+  drwxr-xr-x  medium-blog     TypeScript  —
+  drwxr-xr-x  paytm           JavaScript  —
+  drwxr-xr-x  votingsystem    JavaScript  —
+  drwxr-xr-x  acer-backlight  Shell       —
+
+anubhav@matrix:~$ stat --contributions
+
+  last 12 months ......... 711 contributions
+  active days ............ 146 / 366
+  public repos ........... 21   (19 own · 2 forks)
+  languages .............. JavaScript 8 · HTML 4 · TypeScript 2 · Shell 1
+  account opened ......... 2022-12-31
 
 anubhav@matrix:~$ _
 ```
+
+<div align="center">
+
+**[browse all 21 repos](https://github.com/malikanubhav?tab=repositories)**  ·  **[linkedin.com/in/anubhav010](https://www.linkedin.com/in/anubhav010)**
+
+</div>
+
+<!-- ─────────────────────────────────────────────────────────────
+     Want a bio line? Add it right under the banner, one sentence:
+     what you build, for whom. Kept out of the rendered page for now
+     so nothing reads as unfinished.
+     ───────────────────────────────────────────────────────────── -->
