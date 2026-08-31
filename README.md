@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./matrix-profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./matrix-profile-light.svg">
-  <img src="./matrix-profile-dark.svg" width="100%" alt="malikanubhav — Anubhav">
+  <source media="(prefers-color-scheme: dark)"  srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img src="./banner-dark.svg" width="100%" alt="malikanubhav — Anubhav">
 </picture>
 
 </div>
