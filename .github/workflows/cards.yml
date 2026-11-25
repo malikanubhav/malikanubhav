@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Render README cards (contrib, stats, weekdays, months, cumulative)
+      - name: Render README cards (hero, tiles, activity, heatmap, repos)
         run: python scripts/render_cards.py
       - name: Commit if anything changed
         run: |

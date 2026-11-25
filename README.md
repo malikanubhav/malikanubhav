@@ -1,30 +1,25 @@
 <div align="center">
 
-<img src="./banner-light.svg" width="100%" alt="malikanubhav — Anubhav">
+<!-- cards:start -->
+<a href="https://www.anubhavmalik.com"><img src="./cards/hero.svg" width="100%" alt="Anubhav Malik, AI engineer at Wexa"></a>
 
-<br><br>
+<a href="https://www.anubhavmalik.com"><img src="./cards/build.svg" width="32.5%" alt="Build"></a> <a href="https://www.anubhavmalik.com"><img src="./cards/scale.svg" width="32.5%" alt="Scale"></a> <a href="https://github.com/malikanubhav?tab=repositories"><img src="./cards/ship.svg" width="32.5%" alt="Ship"></a>
 
-<!-- charts:start -->
-<img src="./contrib-light.svg" width="100%" alt="Contribution calendar: 1,050 contributions, 194 active days">
+<img src="./cards/activity.svg" width="100%" alt="1,051 contributions in the last year, longest streak 16 days">
 
-<br>
+<img src="./cards/heatmap.svg" width="100%" alt="Contribution graph: 1,051 contributions in the last year">
 
-<img src="./stats-light.svg" width="100%" alt="1,050 contributions, 194 active days, longest streak 16, best day 83">
-
-<br>
-
-<img src="./weekdays-light.svg" width="100%" alt="Contributions by weekday — Tuesday highest at 264, Sunday lowest at 25">
-<!-- charts:end -->
+<a href="https://github.com/malikanubhav/actron"><img src="./cards/repo-actron.svg" width="32.5%" alt="Actron"></a> <a href="https://github.com/malikanubhav/rishikeshin"><img src="./cards/repo-rishikeshin.svg" width="32.5%" alt="rishikeshin"></a> <a href="https://github.com/malikanubhav/Filmflix"><img src="./cards/repo-filmflix.svg" width="32.5%" alt="Filmflix"></a>
+<!-- cards:end -->
 
 </div>
 
 <!-- numbers:start -->
 <details>
-<summary>The numbers behind the charts</summary>
+<summary>The numbers behind the cards</summary>
 
 | Month | Contributions |
 |---|---|
-| Nov 2025 | 0 |
 | Dec 2025 | 3 |
 | Jan 2026 | 159 |
 | Feb 2026 | 106 |
@@ -36,32 +31,23 @@
 | Aug 2026 | 88 |
 | Sep 2026 | 103 |
 | Oct 2026 | 184 |
-| Nov 2026 | 50 |
+| Nov 2026 | 51 |
 
-| Weekday | Contributions |
-|---|---|
-| Mon | 216 |
-| Tue | 264 |
-| Wed | 134 |
-| Thu | 174 |
-| Fri | 202 |
-| Sat | 35 |
-| Sun | 25 |
-
-Peak day: **2026-10-19** with **83** contributions ·
-Average on an active day: **5.4** ·
-Window: 368 days
+1,051 contributions over 368 days (2025-11-23 to 2026-11-25) ·
+194 days with a commit · longest streak **16** days ·
+busiest day **2026-10-19** with **83** ·
+average on an active day **5.4** · 23 public repos
 
 </details>
 <!-- numbers:end -->
 
 <div align="center">
 
-**[browse all 21 repos](https://github.com/malikanubhav?tab=repositories)**  ·  **[linkedin.com/in/anubhav010](https://www.linkedin.com/in/anubhav010)**
+**[anubhavmalik.com](https://www.anubhavmalik.com)**  ·  **[browse all repos](https://github.com/malikanubhav?tab=repositories)**  ·  **[linkedin.com/in/anubhavmaliksde](https://www.linkedin.com/in/anubhavmaliksde)**
 
 </div>
 
-<!-- Cards are animated SVGs redrawn daily by scripts/render_cards.py
-     (.github/workflows/cards.yml) from the public contribution calendar.
-     Edit outside the charts/numbers markers; inside them gets overwritten.
-     Also available but not shown: months-*.svg, cumulative-*.svg -->
+<!-- Cards are animated SVGs in cards/, drawn by scripts/render_cards.py and
+     redrawn daily by .github/workflows/cards.yml from the public contribution
+     calendar. Text inside the cards:/numbers: markers is overwritten on each
+     run; edit outside them, or edit the copy at the top of the script. -->
