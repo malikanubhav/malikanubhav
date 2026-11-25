@@ -1,35 +1,19 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
-  <img src="./banner-dark.svg" width="100%" alt="malikanubhav — Anubhav">
-</picture>
+<img src="./banner-light.svg" width="100%" alt="malikanubhav — Anubhav">
 
 <br><br>
 
 <!-- charts:start -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./contrib-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./contrib-light.svg">
-  <img src="./contrib-dark.svg" width="100%" alt="Contribution calendar: 1,050 contributions, 194 active days">
-</picture>
+<img src="./contrib-light.svg" width="100%" alt="Contribution calendar: 1,050 contributions, 194 active days">
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./stats-light.svg">
-  <img src="./stats-dark.svg" width="100%" alt="1,050 contributions, 194 active days, longest streak 16, best day 83">
-</picture>
+<img src="./stats-light.svg" width="100%" alt="1,050 contributions, 194 active days, longest streak 16, best day 83">
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./weekdays-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./weekdays-light.svg">
-  <img src="./weekdays-dark.svg" width="100%" alt="Contributions by weekday — Tuesday highest at 264, Sunday lowest at 25">
-</picture>
+<img src="./weekdays-light.svg" width="100%" alt="Contributions by weekday — Tuesday highest at 264, Sunday lowest at 25">
 <!-- charts:end -->
 
 </div>

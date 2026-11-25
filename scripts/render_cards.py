@@ -390,11 +390,8 @@ def cumulative_card(p: dict, theme: str, days: list[dict], s: dict) -> None:
 # ------------------------------------------------------------------- readme
 
 def picture(name: str, alt: str) -> str:
-    return (f'<picture>\n'
-            f'  <source media="(prefers-color-scheme: dark)"  srcset="./{name}-dark.svg">\n'
-            f'  <source media="(prefers-color-scheme: light)" srcset="./{name}-light.svg">\n'
-            f'  <img src="./{name}-dark.svg" width="100%" alt="{html.escape(alt)}">\n'
-            f'</picture>')
+    # Always the light cards, whatever theme the viewer's GitHub uses.
+    return f'<img src="./{name}-light.svg" width="100%" alt="{html.escape(alt)}">'
 
 
 def readme(s: dict) -> None:
