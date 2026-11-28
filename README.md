@@ -5,9 +5,9 @@
 
 <a href="https://www.anubhavmalik.com"><img src="./cards/build.svg" width="32.5%" alt="Build"></a> <a href="https://www.anubhavmalik.com"><img src="./cards/scale.svg" width="32.5%" alt="Scale"></a> <a href="https://github.com/malikanubhav?tab=repositories"><img src="./cards/ship.svg" width="32.5%" alt="Ship"></a>
 
-<img src="./cards/activity.svg" width="100%" alt="1,053 contributions in the last year, longest streak 16 days">
+<img src="./cards/activity.svg" width="100%" alt="1,054 contributions in the last year, longest streak 16 days">
 
-<img src="./cards/heatmap.svg" width="100%" alt="Contribution graph: 1,053 contributions in the last year">
+<img src="./cards/heatmap.svg" width="100%" alt="Contribution graph: 1,054 contributions in the last year">
 
 <a href="https://github.com/malikanubhav/actron"><img src="./cards/repo-actron.svg" width="32.5%" alt="Actron"></a> <a href="https://github.com/malikanubhav/rishikeshin"><img src="./cards/repo-rishikeshin.svg" width="32.5%" alt="rishikeshin"></a> <a href="https://github.com/malikanubhav/Filmflix"><img src="./cards/repo-filmflix.svg" width="32.5%" alt="Filmflix"></a>
 <!-- cards:end -->
@@ -31,10 +31,10 @@
 | Aug 2026 | 88 |
 | Sep 2026 | 103 |
 | Oct 2026 | 184 |
-| Nov 2026 | 53 |
+| Nov 2026 | 54 |
 
-1,053 contributions over 370 days (2025-11-23 to 2026-11-27) ·
-195 days with a commit · longest streak **16** days ·
+1,054 contributions over 371 days (2025-11-23 to 2026-11-28) ·
+196 days with a commit · longest streak **16** days ·
 busiest day **2026-10-19** with **83** ·
 average on an active day **5.4** · 23 public repos
 
